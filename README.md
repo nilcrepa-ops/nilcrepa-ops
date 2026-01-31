@@ -6,11 +6,11 @@
 ---
 
 ### 👨‍💻 Sobre Mí
-Soy estudiante de **Grado Superior en Desarrollo de Aplicaciones Multiplataforma (DAM)** con un enfoque centrado en la creación de software eficiente, escalable y robusto. 
+Soy estudiante de **Grado Superior en Desarrollo de Aplicaciones Multiplataforma (DAM)** con un enfoque centrado en la creación de software. 
 
-Mi trayectoria profesional tiene un origen singular: el **sector fitness y servicios**. De esta etapa traigo conmigo una **disciplina inquebrantable, capacidad de análisis bajo presión y una mentalidad orientada a objetivos**, cualidades que ahora aplico en la resolución de problemas lógicos y el desarrollo de sistemas.
+Mi trayectoria profesional tiene un origen singular: el **sector fitness y servicios**. De esta etapa traigo conmigo **disciplina, capacidad de análisis bajo presión y una mentalidad orientada a objetivos**, cualidades que ahora aplico en la resolución de problemas lógicos y el desarrollo de aplicaciones y sistemas.
 
-- 🏋️‍♂️ **Transición:** Mi experiencia previa en la gestión mediante CRM y el entrenamiento autónomo me permitió desarrollar una base sólida en análisis de datos y optimización de procesos, competencias transversales vitales en el ecosistema IT.
+- 🏋️‍♂️ **Transición:** Mi experiencia previa en la gestión mediante CRM y el entrenamiento me permitió desarrollar una base sólida en análisis de datos y optimización de procesos, competencias transversales vitales en el sector IT.
 - 🎯 **Misión:** Transformar la perseverancia del alto rendimiento físico en soluciones tecnológicas de alto impacto.
 
 ---
@@ -53,8 +53,8 @@ Mi trayectoria profesional tiene un origen singular: el **sector fitness y servi
 
 ### 📩 Conectemos
 <p align="left">
-<a href="https://www.linkedin.com/in/TU_USUARIO_LINKEDIN" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:tu-correo@ejemplo.com"><img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://www.linkedin.com/in/nil-creus-76a39932b/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:nilcrepa@gmail.com"><img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 <p align="center">
