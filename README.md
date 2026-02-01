@@ -1,6 +1,6 @@
 # <p align="center">Nil Creus Palma</p>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Multiplatform+App+Developer+Student;Tech+Enthusiast;Focus+on+Efficient+%26+Robust+Code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Multiplatform+App+Developer+Student;Focus+on+Efficient+%26+Robust+Code" alt="Typing SVG" />
 </p>
 
 ---
