@@ -15,7 +15,7 @@ Mi trayectoria profesional tiene un origen singular: el **sector fitness y servi
 
 ---
 
-### 🛠️ Stack Técnico
+### 🛠️ Stack Técnico (En Formación)
 
 **Lenguajes de Programación**
 <p align="left">
@@ -23,6 +23,7 @@ Mi trayectoria profesional tiene un origen singular: el **sector fitness y servi
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/sql-%2307405e.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
 </p>
 
 **Sistemas Operativos & Entorno**
@@ -43,17 +44,9 @@ Mi trayectoria profesional tiene un origen singular: el **sector fitness y servi
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nilcrepa-ops&show_icons=true&theme=radical&hide_border=true" alt="Estadísticas de Nil" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nilcrepa-ops&layout=compact&theme=radical&hide_border=true" alt="Lenguajes más usados" height="180" />
-</p>
-
----
-
 ### 📩 Conectemos
 <p align="left">
-<a href="https://www.linkedin.com/in/nil-creus-76a39932b/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://www.linkedin.com/in/nilcreus" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:nilcrepa@gmail.com"><img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
