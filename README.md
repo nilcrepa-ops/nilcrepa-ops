@@ -6,7 +6,7 @@
 ---
 
 ### 👨‍💻 Sobre Mí
-Soy estudiante de **Grado Superior en Desarrollo de Aplicaciones Multiplataforma (DAM)** con un enfoque centrado en la creación de software. 
+Soy estudiante de **Grado Superior en Desarrollo de Aplicaciones Multiplataforma (DAM)** con un enfoque centrado en la **creación de software** y la **seguridad informática**. 
 
 Mi trayectoria profesional tiene un origen singular: el **sector fitness y servicios**. De esta etapa traigo conmigo **disciplina, capacidad de análisis bajo presión y una mentalidad orientada a objetivos**, cualidades que ahora aplico en la resolución de problemas lógicos y el desarrollo de aplicaciones y sistemas.
 
